@@ -15,7 +15,7 @@
   },
   "dependencies": {},
   "peerDependencies": {
-    "eslint-plugin-node": "^11.0.0"
+    "eslint-plugin-node": "^11.1.0"
   },
   "devDependencies": {
     "@overlookmotel/eslint-config": "^7.1.2",
