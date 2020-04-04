@@ -10,6 +10,6 @@
 module.exports = {
 	extends: [
 		'@overlookmotel/eslint-config',
-		'./index'
+		'./index.js'
 	]
 };

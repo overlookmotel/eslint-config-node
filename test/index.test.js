@@ -6,7 +6,7 @@
 'use strict';
 
 // Modules
-const eslintConfigNode = require('../index');
+const eslintConfigNode = require('../index.js');
 
 // Tests
 
