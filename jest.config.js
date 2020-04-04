@@ -1,4 +1,11 @@
+/* --------------------
+ * @overlookmotel/eslint-config-node module
+ * Jest config
+ * ------------------*/
+
 'use strict';
+
+// Exports
 
 module.exports = {
 	testEnvironment: 'node',
