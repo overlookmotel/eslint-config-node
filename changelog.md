@@ -1,5 +1,25 @@
 # Changelog
 
+## 2.1.0
+
+Features:
+
+* Drop support for Node v13
+
+Tests:
+
+* Import module by name [refactor]
+
+Dev:
+
+* Replace `.npmignore` with `files` list in `package.json`
+* Update dev dependencies
+* CI run tests on Node v14
+* `.editorconfig` config
+* Simplify lint scripts
+* Simplify Jest config
+* Remove `sudo` key from Travis CI config
+
 ## 2.0.0
 
 Breaking changes:
