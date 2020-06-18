@@ -1,5 +1,11 @@
 # Changelog
 
+## 2.1.2
+
+Docs:
+
+* Add missing changelog entry [fix]
+
 ## 2.1.1
 
 Tests:
