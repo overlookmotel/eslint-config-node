@@ -1,5 +1,36 @@
 # Changelog
 
+## 3.0.0
+
+Breaking changes:
+
+* Disable rules already covered by `eslint-plugin-import`
+
+Features:
+
+* Drop support for Node v10
+
+Bug fixes:
+
+* Fix incorrect errors for ESM syntax
+* Remove `parserOptions.sourceType`
+
+No code:
+
+* Linting fixes
+
+Dev:
+
+* Use NPM v7 for development
+* Use Github Actions for CI
+* Update dev dependencies
+
+Docs:
+
+* Remove Greenkeeper badge
+* Update license year
+* Remove license indentation
+
 ## 2.1.2
 
 Docs:
