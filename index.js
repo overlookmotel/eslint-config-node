@@ -13,9 +13,6 @@ module.exports = {
 	env: {
 		node: true
 	},
-	parserOptions: {
-		sourceType: 'script'
-	},
 	extends: [
 		'plugin:node/recommended'
 	],
