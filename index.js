@@ -16,6 +16,9 @@ module.exports = {
 	extends: [
 		'plugin:node/recommended'
 	],
+	parserOptions: {
+		ecmaVersion: 2021
+	},
 	rules: {
 		strict: ['error', 'global'],
 
