@@ -1,5 +1,11 @@
 # Changelog
 
+## 3.0.1
+
+Bug fixes:
+
+* Parser use `ecmaVersion` 2021
+
 ## 3.0.0
 
 Breaking changes:
