@@ -8,15 +8,18 @@
 
 ## Usage
 
+Add to `.eslintrc`: `"extends": "@overlookmotel/eslint-config-node"`
+
+NB Does not extend the base config [@overlookmotel/eslint-config](https://www.npmjs.com/package/@overlookmotel/eslint-config) so use `"extends": "@overlookmotel/eslint-config"` too in `.eslintrc`.
+
 Add dev dependencies in `package.json`:
 
 * `@overlookmotel/eslint-config-node`
 * `eslint`
+
+If using NPM before v7, additionally add peer dependencies as dev dependencies in `package.json`:
+
 * `eslint-plugin-node`
-
-Add to `.eslintrc`: `"extends": "@overlookmotel/eslint-config-node"`
-
-NB Does not extend the base config [@overlookmotel/eslint-config](https://www.npmjs.com/package/@overlookmotel/eslint-config) so use `"extends": "@overlookmotel/eslint-config"` too in `.eslintrc`.
 
 ## Versioning
 
