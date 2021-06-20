@@ -30,6 +30,14 @@ module.exports = {
 		'node/prefer-global/text-decoder': ['error', 'always'],
 		'node/prefer-global/text-encoder': ['error', 'always'],
 		'node/prefer-global/url-search-params': ['error', 'always'],
-		'node/prefer-global/url': ['error', 'always']
+		'node/prefer-global/url': ['error', 'always'],
+
+		// Disable rules already covered by `import/...` rules in `@overlookmotel/eslint-config`
+		'node/no-missing-import': ['off'],
+		'node/no-missing-require': ['off'],
+		'node/no-unpublished-import': ['off'],
+		'node/no-unpublished-require': ['off'],
+		'node/no-extraneous-import': ['off'],
+		'node/no-extraneous-require': ['off']
 	}
 };
