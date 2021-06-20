@@ -2,7 +2,6 @@
 [![Build Status](https://img.shields.io/travis/overlookmotel/eslint-config-node/master.svg)](http://travis-ci.org/overlookmotel/eslint-config-node)
 [![Dependency Status](https://img.shields.io/david/overlookmotel/eslint-config-node.svg)](https://david-dm.org/overlookmotel/eslint-config-node)
 [![Dev dependency Status](https://img.shields.io/david/dev/overlookmotel/eslint-config-node.svg)](https://david-dm.org/overlookmotel/eslint-config-node)
-[![Greenkeeper badge](https://badges.greenkeeper.io/overlookmotel/eslint-config-node.svg)](https://greenkeeper.io/)
 [![Coverage Status](https://img.shields.io/coveralls/overlookmotel/eslint-config-node/master.svg)](https://coveralls.io/r/overlookmotel/eslint-config-node)
 
 # @overlookmotel's ESLint config for NodeJS
