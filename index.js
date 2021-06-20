@@ -32,6 +32,9 @@ module.exports = {
 		'node/prefer-global/url-search-params': ['error', 'always'],
 		'node/prefer-global/url': ['error', 'always'],
 
+		// Fix incorrect errors for ESM syntax
+		'node/no-unsupported-features/es-syntax': ['error', {ignores: ['modules', 'dynamicImport']}],
+
 		// Disable rules already covered by `import/...` rules in `@overlookmotel/eslint-config`
 		'node/no-missing-import': ['off'],
 		'node/no-missing-require': ['off'],
