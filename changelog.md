@@ -1,5 +1,7 @@
 # Changelog
 
+## 4.0.1
+
 Dev:
 
 * Remove unnecessary ESLint config
