@@ -10,6 +10,6 @@ const eslintConfigNode = require('@overlookmotel/eslint-config-node');
 
 // Tests
 
-it('Exports an object', () => { // eslint-disable-line jest/lowercase-name
+it('Exports an object', () => { // eslint-disable-line jest/prefer-lowercase-title
 	expect(eslintConfigNode).toBeObject();
 });
