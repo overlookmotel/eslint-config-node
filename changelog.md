@@ -1,5 +1,14 @@
 # Changelog
 
+Dev:
+
+* Remove unnecessary ESLint config
+* Update dev dependencies
+
+Docs:
+
+* Fix changelog
+
 ## 4.0.0
 
 Breaking changes:
