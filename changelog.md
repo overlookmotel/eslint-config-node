@@ -1,5 +1,11 @@
 # Changelog
 
+## 4.0.0
+
+Breaking changes:
+
+* Update to ESLint 8
+
 ## 3.0.1
 
 Bug fixes:
