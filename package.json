@@ -1,6 +1,6 @@
 {
   "name": "@overlookmotel/eslint-config-node",
-  "version": "4.0.1",
+  "version": "4.0.2",
   "description": "@overlookmotel's ESLint config for NodeJS",
   "main": "index.js",
   "files": [],

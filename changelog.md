@@ -1,5 +1,11 @@
 # Changelog
 
+## 4.0.2
+
+Docs:
+
+* Fix changelog
+
 ## 4.0.1
 
 Dev:
