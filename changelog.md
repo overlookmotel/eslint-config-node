@@ -6,6 +6,15 @@ Breaking changes:
 
 * Update to ESLint 8
 
+Dev:
+
+* Run tests on CI on Node v17
+* Clean up after `cover` NPM script even if fails
+
+Docs:
+
+* Update license year
+
 ## 3.0.1
 
 Bug fixes:
