@@ -20,7 +20,7 @@
     "eslint-plugin-node": "^11.1.0"
   },
   "devDependencies": {
-    "@overlookmotel/eslint-config": "^10.0.1",
+    "@overlookmotel/eslint-config": "^10.0.2",
     "@overlookmotel/eslint-config-jest": "^6.0.1",
     "eslint": "^8.11.0",
     "eslint-plugin-node": "^11.1.0",
