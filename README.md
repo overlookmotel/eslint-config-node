@@ -1,7 +1,5 @@
 [![NPM version](https://img.shields.io/npm/v/@overlookmotel/eslint-config-node.svg)](https://www.npmjs.com/package/@overlookmotel/eslint-config-node)
 [![Build Status](https://img.shields.io/github/workflow/status/overlookmotel/eslint-config-node/Test.svg)](https://github.com/overlookmotel/eslint-config-node/actions)
-[![Dependency Status](https://img.shields.io/david/overlookmotel/eslint-config-node.svg)](https://david-dm.org/overlookmotel/eslint-config-node)
-[![Dev dependency Status](https://img.shields.io/david/dev/overlookmotel/eslint-config-node.svg)](https://david-dm.org/overlookmotel/eslint-config-node)
 [![Coverage Status](https://img.shields.io/coveralls/overlookmotel/eslint-config-node/master.svg)](https://coveralls.io/r/overlookmotel/eslint-config-node)
 
 # @overlookmotel's ESLint config for NodeJS
